@@ -5,10 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: alist
     url: https://alist.mlxq.cf/
-  - name: w
-    url: http://www.fengj.com/
-  - name: m
-    url: http://m.fengj.com/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
