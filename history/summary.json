@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.mlxq.cf.ico",
     "slug": "alist",
     "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
-    "time": 1135,
-    "timeDay": 1135,
-    "timeWeek": 1135,
-    "timeMonth": 1135,
-    "timeYear": 1135,
-    "dailyMinutesDown": {
-      "2023-02-04": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1043,
+    "timeDay": 1043,
+    "timeWeek": 1043,
+    "timeMonth": 1043,
+    "timeYear": 1043,
+    "dailyMinutesDown": {}
   }
 ]
