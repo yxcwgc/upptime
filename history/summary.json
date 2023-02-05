@@ -4,19 +4,19 @@
     "url": "https://alist.mlxq.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/alist.mlxq.cf.ico",
     "slug": "alist",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 1823,
-    "timeWeek": 1043,
-    "timeMonth": 1043,
-    "timeYear": 1043,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
+    "time": 952,
+    "timeDay": 1352,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2023-02-05": 0
+      "2023-02-05": 16
     }
   }
 ]
