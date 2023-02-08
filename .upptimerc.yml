@@ -7,6 +7,8 @@ sites:
     url: https://alist.mlxq.cf/
   - name: v2
     url: https://v2.mlxq.cf/
+  - name: zd
+    url: https://zd.mlxq.cf/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
